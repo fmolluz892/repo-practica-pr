@@ -15,3 +15,5 @@ Una lista colaborativa de recomendaciones (un libro, una herramienta, una serie,
 5. Haz commit, `git push` a tu fork, y abre una Pull Request contra este repositorio.
 
 No edites las líneas de tus compañeros, solo añade la tuya al final. Así cada Pull Request es sencilla de revisar.
+
+Aportación de Agustin
