@@ -1,5 +1,7 @@
 # Recomendaciones de la clase
 
+ESTA ES MI APORTACION
+
 Pequeño proyecto de práctica para aprender a trabajar con **fork** y **Pull Request** en GitHub.
 
 ## Qué es esto
@@ -15,3 +17,4 @@ Una lista colaborativa de recomendaciones (un libro, una herramienta, una serie,
 5. Haz commit, `git push` a tu fork, y abre una Pull Request contra este repositorio.
 
 No edites las líneas de tus compañeros, solo añade la tuya al final. Así cada Pull Request es sencilla de revisar.
+Aportacion de Alex
